@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TdpPoc": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
